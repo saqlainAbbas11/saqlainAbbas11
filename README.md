@@ -1,28 +1,38 @@
-# 👋 Hi, I’m @saqlainAbbas11
+👋 Hi, I'm Saqlain Abbas
 
-I’m a passionate Web Developer with expertise in the MERN stack and a wide range of web technologies, including UI/UX design, Canva, and more. I enjoy creating dynamic, scalable, and visually appealing web applications.
+ML & MERN Stack Developer
 
-## 👀 I’m interested in...
-- Full-stack web development
-- Building responsive web applications
-- Exploring new technologies and frameworks
-- UI/UX design and enhancing user experiences
+I'm a Full-Stack Developer with hands-on experience building scalable web applications using the MERN stack. Having developed multiple real-world projects, I'm now expanding my expertise into Artificial Intelligence, Machine Learning, and Data Science, with a focus on applying data-driven solutions to solve real-world problems.
 
-## 🌱 I’m currently learning...
-- Advanced JavaScript frameworks and libraries
-- Cloud technologies and serverless architecture
-- Web performance optimization techniques
+🚀 Tech Stack
+Frontend: React.js, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+Tools: Git, GitHub, Postman, VS Code, Figma
+Currently Learning: Python, Machine Learning, Data Science, Deep Learning
+💡 Interests
+Full-Stack Web Development
+Machine Learning & Artificial Intelligence
+Data Science & Data Analytics
+Backend Systems & APIs
+Open Source Contributions
+🌱 Currently Working On
+Strengthening my AI/ML and Data Science skills
+Building machine learning projects with Python
+Exploring data visualization and predictive analytics
+Developing modern, scalable full-stack applications
+🤝 Open to Collaborate
 
-## 💞️ I’m looking to collaborate on...
-- Open-source projects related to web development
-- MERN stack-based applications
-- UI/UX design projects
-- Any creative and impactful web-related collaborations
+I'm always interested in collaborating on:
+
+Open-source projects
+MERN Stack applications
+AI/ML and Data Science projects
+Innovative software solutions
 
 ## 📫 How to reach me...
 - Email: samlain38@gmail.com or robertbanzo918@gmail.com
-- LinkedIn: [saqlain-abbas](https://www.linkedin.com/in/saqlain-abbas)
-- Twitter: [@saqlain_abbas](https://twitter.com/saqlain_abbas)
+- LinkedIn: [Saqlain Abbas](https://www.linkedin.com/in/saqlainabbas11/)
 
 ## 😄 
 
